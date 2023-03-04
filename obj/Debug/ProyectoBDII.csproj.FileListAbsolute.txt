@@ -1,0 +1,62 @@
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\ProyectoBDII.exe.config
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\ProyectoBDII.exe
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\ProyectoBDII.pdb
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Properties.Resources.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.exe
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.pdb
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\Google.Protobuf.dll
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\Renci.SshNet.dll
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\MySql.Data.xml
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Login.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\ProyectoBDII.exe.manifest
+C:\Users\Lucas\source\repos\ProyectoBDII\bin\Debug\ProyectoBDII.application
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.exe.manifest
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.application
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form5.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form6.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form7.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form8.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form9.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form2.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form3.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form4.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form10.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form11.resources
+C:\Users\Lucas\source\repos\ProyectoBDII\obj\Debug\ProyectoBDII.Form12.resources
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\ProyectoBDII.exe.config
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\ProyectoBDII.exe.manifest
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\ProyectoBDII.application
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\ProyectoBDII.exe
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\ProyectoBDII.pdb
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\Google.Protobuf.dll
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\BouncyCastle.Crypto.dll
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\Renci.SshNet.dll
+D:\LUCAS\Lu\Deudas Y Cobros\bin\Debug\MySql.Data.xml
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.csprojAssemblyReference.cache
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Login.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form10.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form11.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form12.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form2.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form3.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form4.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form5.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form6.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form7.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form8.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form9.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Properties.Resources.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.csproj.GenerateResource.cache
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.csproj.CoreCompileInputs.cache
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.exe.manifest
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.application
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.csproj.CopyComplete
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.exe
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.pdb
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form13.resources
+D:\LUCAS\Lu\Deudas Y Cobros\obj\Debug\ProyectoBDII.Form14.resources
